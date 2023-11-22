@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "b778b9ccec306d77",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b6978719e87bba4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce2d17639c3be63d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/_posts/工具/Git/git 初始化一个本地文件夹.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "663291064b8c46c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe4df46be34e0cba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57b072cdae311bc0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a95e3bbc871c4a21",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "流程图",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d379ac510f8e1fa8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "186357f4a033b888",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "source/_posts/工具/Git/git 初始化一个本地文件夹.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "97ff65c21eca24b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "14b082d4c46cf09e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b6083513e08f886",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "source/_posts/工具/Git/git 初始化一个本地文件夹.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4d7cf1c38769cf00",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "source/_posts/工具/Git/git 初始化一个本地文件夹.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3e82efdff23c41be",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "ce2d17639c3be63d",
+  "lastOpenFiles": [
+    "node_modules/send/node_modules/debug/src/node.js",
+    "node_modules/send/node_modules/debug/src/inspector-log.js",
+    "node_modules/send/node_modules/debug/src/debug.js",
+    "node_modules/send/node_modules/debug/src/index.js",
+    "node_modules/send/node_modules/debug/src/browser.js",
+    "node_modules/send/node_modules/debug/src",
+    "node_modules/compression/node_modules/debug/src/node.js",
+    "node_modules/compression/node_modules/debug/src/inspector-log.js",
+    "node_modules/compression/node_modules/debug/src/index.js",
+    "node_modules/compression/node_modules/debug/src/debug.js",
+    "node_modules/compression/node_modules/debug/src/browser.js",
+    "node_modules/lodash/README.md",
+    "node_modules/object-assign/readme.md",
+    "node_modules/pretty-data/README.md",
+    "node_modules/optionator/README.md",
+    "node_modules/optionator/CHANGELOG.md",
+    "node_modules/source-map-resolve/readme.md",
+    "node_modules/source-map-resolve/changelog.md",
+    "node_modules/prelude-ls/README.md",
+    "node_modules/prelude-ls/CHANGELOG.md",
+    "node_modules/timsort/README.md",
+    "node_modules/timsort/LICENSE.md",
+    "node_modules/url-join/README.md",
+    "node_modules/word-wrap/README.md",
+    "node_modules/type-check/README.md",
+    "source/_drafts/git 仓库初始化.md"
+  ]
+}
