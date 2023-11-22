@@ -20,17 +20,20 @@ user.name=GDBBader
 user.email=1033239636@qq.com
 ```
 2.2 配置email、user
-
+```
+$ git config user.name "you name"
+$ git config user.email "you email"
+```
 <!--more-->
 ## 二、与远端仓库(gitee/github)建立联系
 
-1. `git remote add 远端仓库地址`
+1. `git remote add origin 远端仓库地址`
 2. `git push -u origin master`
 
 ### 解读
 
-1. 第一条是跟远端仓库建立联系
-当执行过第一条之后直接`git push`会报如下错误[[git push]]```
+1. 第一条是跟远端仓库建立联系，我其中origin是远端仓库的别名
+当执行过第一条之后直接`git push`会报如下错误
 ```
 $ git push
 fatal: The current branch master has no upstream branch.
@@ -40,8 +43,6 @@ git push --set-upstream origin master
 ```
 
 2. 第二条是远端有很多分支,我们需要push到哪一个分支
-
-## 三、如何配置email、user
 
 ## 流程
 ```flow
